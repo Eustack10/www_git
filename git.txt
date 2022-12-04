@@ -1,0 +1,16 @@
+[clone]
+#git clone [url]
+
+[Branch]
+Listing Branches
+#git branch -a
+
+New Branch
+#git checkout -b [new-branch]
+
+[Push]
+#git init
+#git add .
+#git commit -m "something"
+#git remote add origin https://github.com/Eustack10/www_git.git
+#git push
