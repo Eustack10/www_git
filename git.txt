@@ -8,6 +8,18 @@ Listing Branches
 New Branch
 #git checkout -b [new-branch]
 
+Switch Branch
+#git switch [branch-name]
+#git checkout [branch-name]
+
+Delete Branch
+#git branch -D [branch-name]
+
+
+Delete Branch
+#git branch -m [old-branch] [new-branch]
+
+
 [Push]
 #git init
 #git add .
